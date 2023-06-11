@@ -1,1 +1,1 @@
-# Computer_Network--Attendance_System
+# Computer_Network-Attendance_System Course Project
